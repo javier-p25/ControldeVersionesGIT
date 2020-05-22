@@ -14,7 +14,7 @@ public class Ejercicio1 {
 		//introducir un numero decimal con , 
 		System.out.print("Introduzca un número decimal: ");
 		
-        //el numero introducido por teclado se guardara en nuestra variable numero
+        //el numero introducido por teclado se guardara en nuestra variable numero 
 
 		numero= scan.nextInt();
 		
